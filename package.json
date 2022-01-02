@@ -1,0 +1,18 @@
+{
+  "name": "com.serious07.seriouslibrary",
+  "version": "1.0.0",
+  "displayName": "Serious Library",
+  "description": "My library witch contains often used feature, whitch offten used in all projects.",
+  "unity": "2019.4",
+  "unityRelease": "5f1",
+  "documentationUrl": "https://github.com/Serious07/SeriousLibrary",
+  "changelogUrl": "https://github.com/Serious07/SeriousLibrary",
+  "licensesUrl": "https://github.com/Serious07/SeriousLibrary",
+  "keywords": [],
+  "author": {
+    "name": "Serious07",
+    "email": "Serious-07@inbox.ru",
+    "url": "https://github.com/Serious07/SeriousLibrary"
+  },
+  "type": "library"
+}
