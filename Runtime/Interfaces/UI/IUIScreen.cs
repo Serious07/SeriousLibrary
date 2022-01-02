@@ -6,7 +6,7 @@ namespace SeriousLib.UI
     public interface IUIScreen
     {
         /// <summary>
-        /// Гейм объект этого интерфейса
+        /// Game object of this interface
         /// </summary>
         GameObject go { set; get; }
         Action<IUIScreen> OnShow { set; get; }
