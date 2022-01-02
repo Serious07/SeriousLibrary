@@ -4,7 +4,6 @@ using UnityEngine;
 
 namespace SeriousLib.UI
 {
-    [CreateAssetMenu(fileName = "UIScreensManager", menuName = "Singletons/UIScreensManager", order = 0)]
     public class UIScreensManager : SingletonMono<UIScreensManager>
     {
         public List<UIScreen> screens = new List<UIScreen>();
