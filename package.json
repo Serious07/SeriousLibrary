@@ -9,6 +9,10 @@
   "changelogUrl": "https://github.com/Serious07/SeriousLibrary",
   "licensesUrl": "https://github.com/Serious07/SeriousLibrary",
   "keywords": [],
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/Serious07/SeriousLibrary.git"
+    },
   "author": {
     "name": "Serious07",
     "email": "Serious-07@inbox.ru",
