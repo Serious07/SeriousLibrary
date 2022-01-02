@@ -6,6 +6,15 @@ namespace SeriousLib.Coordinates
     public class Coordinates : MonoBehaviour
     {
         /// <summary>
+        /// Get world position under mouse cursor
+        /// </summary>
+        /// <returns>World position</returns>
+        public static Vector3 GetWorldPosition()
+        {
+            return GetWorldPosition(UnityEngine.Input.mousePosition);
+        }
+
+        /// <summary>
         /// Get world coordinates based on screen coordinates
         /// </summary>
         /// <param name="cam">Camera to get position</param>
