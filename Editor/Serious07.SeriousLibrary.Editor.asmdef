@@ -1,8 +1,8 @@
 {
-    "name": "com.serious07.runtime",
+    "name": "com.serious07.editor",
     "rootNamespace": "",
     "references": [
-        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+        "GUID:d5162e469cf333c4eb1719b5c9c3fc40"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
